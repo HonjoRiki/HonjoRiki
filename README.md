@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/badge/twitter-honjo-blue)](https://twitter.com/honjo_KEEL)
+[![Twitter](https://img.shields.io/badge/twitter-Honjo_KEEL-blue)](https://twitter.com/honjo_KEEL)
 
 # HonjoRiki
 
