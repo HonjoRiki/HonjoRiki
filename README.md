@@ -1,12 +1,13 @@
 [![Twitter](https://img.shields.io/badge/twitter-Honjo_KEEL-blue)](https://twitter.com/honjo_KEEL)
 
 # HonjoRiki
+ゲームプログラマ  
 
-北海道のゲーム制作者
 
 # 興味があるもの
 - Unity
 - Rust
+- Arduino
 
 # 趣味 
 - ゲーム
