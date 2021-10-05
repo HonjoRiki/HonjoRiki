@@ -15,5 +15,4 @@
 - 酒
 
 # Webサイト
-- [Zer Gauza](https://zergauza.com/)
 - [KEEL Games](https://keelgames.wixsite.com/keelgames)
