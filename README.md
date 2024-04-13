@@ -15,4 +15,4 @@
 - 酒
 
 # Webサイト
-- [KEEL Games](https://keelgames.wixsite.com/keelgames)
+- [KEEL Games](https://www.keelgames.net/)
