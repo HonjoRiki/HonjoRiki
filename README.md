@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/badge/twitter-Honjo_KEEL-blue)](https://twitter.com/keelgames_net)
+[![Twitter](https://img.shields.io/badge/twitter-keelgames_net-blue)](https://twitter.com/keelgames_net)
 
 # HonjoRiki
 - 本業はバックエンドエンジニア
