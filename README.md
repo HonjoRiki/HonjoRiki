@@ -1,13 +1,14 @@
-[![Twitter](https://img.shields.io/badge/twitter-Honjo_KEEL-blue)](https://twitter.com/honjo_KEEL)
+[![Twitter](https://img.shields.io/badge/twitter-Honjo_KEEL-blue)](https://twitter.com/keelgames_net)
 
 # HonjoRiki
-ゲームプログラマ  
+- 本業はバックエンドエンジニア
+- 趣味でゲームプログラマ
 
-
-# 興味があるもの
-- Unity
-- Rust
-- Arduino
+# スキルセット
+- PHP（Laravel）
+- TypeScript
+- Vue
+- C#（Unity）
 
 # 趣味 
 - ゲーム
